@@ -1,0 +1,227 @@
+{
+  "name": "Proof of Governance",
+  "symbol": "POG",
+  "description": "A Soul-Bound Token representing proof of governance participation. This token is non-transferable and permanently bound to the holder's wallet, serving as immutable proof of governance engagement.",
+  "image": "https://denniszweigle.github.io/solana-sbt-assets/images/8a232316-6743-4d0a-8c62-a523d172efae.png",
+  "external_url": "https://www.proofofgovernance.ai",
+  "attributes": [
+    {
+      "trait_type": "Company/Project Name",
+      "value": "TradeBot Cash"
+    },
+    {
+      "trait_type": "Verification Tier",
+      "value": "GOLD"
+    },
+    {
+      "trait_type": "Company Website URL",
+      "value": "https://tradebot.cash"
+    },
+    {
+      "trait_type": "Token Contract Address",
+      "value": "29w5w31q12Xg7K1sF5d9Z3c2v0X4R7y6Z8a0B1c3D5e"
+    },
+    {
+      "trait_type": "Liquidity Pool (LP) Wallet Address",
+      "value": "LpBv6D8mP9nC2oQ3rF5sH7tJ9uK1v2W4x6Y8z0A1b3D5"
+    },
+    {
+      "trait_type": "Treasury Wallet Address",
+      "value": "TrBv6D8mP9nC2oQ3rF5sH7tJ9uK1v2W4x6Y8z0A1b3D5"
+    },
+    {
+      "trait_type": "Issue Date",
+      "value": "2025-10-15"
+    },
+    {
+      "trait_type": "Expiry Date",
+      "value": "2026-10-15"
+    },
+    {
+      "trait_type": "Audit Report Hash",
+      "value": "QmR9S7tJ2V5y0W8c3A1h6g4F0E7d2P9b1C3a5Z4m3Y2x"
+    },
+    {
+      "trait_type": "Governance Framework Hash",
+      "value": "QmN7P4Q1K3L6M8B9C2D5E1F4G7H9I0J2K4L6M8N0O"
+    },
+    {
+      "trait_type": "Token Type",
+      "value": "Soul-Bound Token"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Governance"
+    },
+    {
+      "trait_type": "Transferable",
+      "value": "No"
+    },
+    {
+      "trait_type": "Burnable",
+      "value": "Yes - By Authority Only"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana Devnet"
+    },
+    {
+      "trait_type": "Standard",
+      "value": "MPL Core"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Badge Status: Audit Compliance",
+      "value": "Not Applicable"
+    },
+    {
+      "trait_type": "Badge Status: Code Security",
+      "value": "Not Applicable"
+    },
+    {
+      "trait_type": "Badge Status: Community Builder",
+      "value": "Not Applicable"
+    },
+    {
+      "trait_type": "Badge Status: Compliance Champion",
+      "value": "Not Applicable"
+    },
+    {
+      "trait_type": "Badge Status: Data Integrity",
+      "value": "Not Applicable"
+    },
+    {
+      "trait_type": "Badge Status: First Transaction",
+      "value": "Not Applicable"
+    },
+    {
+      "trait_type": "Badge Status: Governance Framework",
+      "value": "Not Applicable"
+    },
+    {
+      "trait_type": "Badge Status: Innovation Leader",
+      "value": "Not Applicable"
+    },
+    {
+      "trait_type": "Badge Status: Kyc Verified",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Badge Status: Longevity",
+      "value": "Not Applicable"
+    },
+    {
+      "trait_type": "Badge Status: Milestone Achiever",
+      "value": "Not Applicable"
+    },
+    {
+      "trait_type": "Badge Status: Organizational Identity",
+      "value": "Not Applicable"
+    },
+    {
+      "trait_type": "Badge Status: Risk Management",
+      "value": "Not Applicable"
+    },
+    {
+      "trait_type": "Badge Status: Stakeholder Engagement",
+      "value": "Not Applicable"
+    },
+    {
+      "trait_type": "Badge Status: Tier Progression",
+      "value": "Not Applicable"
+    },
+    {
+      "trait_type": "Badge Status: Transparency Advocate",
+      "value": "Not Applicable"
+    }
+  ],
+  "badges": [
+    {
+      "kyc_verified": {
+        "status": "completed",
+        "earned_date": "2025-10-15"
+      }
+    },
+    {
+      "code_security": {
+        "status": "completed",
+        "earned_date": "2025-10-15"
+      }
+    },
+    {
+      "longevity": {
+        "status": "pending"
+      }
+    }
+  ],
+  "social_media": [
+    {
+      "discord": {
+        "audit_date": "2025-01-10",
+        "audit_status": "completed",
+        "url": "https://discord.gg/tradebot"
+      }
+    },
+    {
+      "twitter": {
+        "audit_date": "2025-01-10",
+        "audit_status": "completed",
+        "url": "https://twitter.com/tradebotcash"
+      }
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://denniszweigle.github.io/solana-sbt-assets/images/8a232316-6743-4d0a-8c62-a523d172efae.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "G8nB7yW9aX0cP2oQ3rD4sF5tG6uH7iJ8kL9mN0oP1qR",
+        "share": 100
+      }
+    ]
+  },
+  "custom_fields": {
+    "Company/Project Name": "TradeBot Cash",
+    "Verification Tier": "GOLD",
+    "Company Website URL": "https://tradebot.cash",
+    "Token Contract Address": "29w5w31q12Xg7K1sF5d9Z3c2v0X4R7y6Z8a0B1c3D5e",
+    "Liquidity Pool (LP) Wallet Address": "LpBv6D8mP9nC2oQ3rF5sH7tJ9uK1v2W4x6Y8z0A1b3D5",
+    "Treasury Wallet Address": "TrBv6D8mP9nC2oQ3rF5sH7tJ9uK1v2W4x6Y8z0A1b3D5",
+    "Issue Date": "2025-10-15",
+    "Expiry Date": "2026-10-15",
+    "Audit Report Hash": "QmR9S7tJ2V5y0W8c3A1h6g4F0E7d2P9b1C3a5Z4m3Y2x",
+    "Governance Framework Hash": "QmN7P4Q1K3L6M8B9C2D5E1F4G7H9I0J2K4L6M8N0O",
+    "Token Type": "Soul-Bound Token",
+    "Category": "Governance",
+    "Transferable": "No",
+    "Burnable": "Yes - By Authority Only",
+    "Network": "Solana Devnet",
+    "Standard": "MPL Core",
+    "Blockchain": "Solana",
+    "Audit Compliance": "Not Applicable",
+    "Code Security": "Not Applicable",
+    "Community Builder": "Not Applicable",
+    "Compliance Champion": "Not Applicable",
+    "Data Integrity": "Not Applicable",
+    "First Transaction": "Not Applicable",
+    "Governance Framework": "Not Applicable",
+    "Innovation Leader": "Not Applicable",
+    "Kyc Verified": "Yes",
+    "Longevity": "Not Applicable",
+    "Milestone Achiever": "Not Applicable",
+    "Organizational Identity": "Not Applicable",
+    "Risk Management": "Not Applicable",
+    "Stakeholder Engagement": "Not Applicable",
+    "Tier Progression": "Not Applicable",
+    "Transparency Advocate": "Not Applicable"
+  },
+  "uri": "https://denniszweigle.github.io/solana-sbt-assets/metadata/53614914-7b52-4423-b45e-05dd183a2508.json"
+}
